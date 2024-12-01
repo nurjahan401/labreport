@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Desktop\Lab report for git\bin\Debug\net9.0\Lab report for git.exe
+C:\Users\User\OneDrive\Desktop\Lab report for git\bin\Debug\net9.0\Lab report for git.deps.json
+C:\Users\User\OneDrive\Desktop\Lab report for git\bin\Debug\net9.0\Lab report for git.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\Lab report for git\bin\Debug\net9.0\Lab report for git.dll
+C:\Users\User\OneDrive\Desktop\Lab report for git\bin\Debug\net9.0\Lab report for git.pdb
+C:\Users\User\OneDrive\Desktop\Lab report for git\obj\Debug\net9.0\Lab report for git.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\Lab report for git\obj\Debug\net9.0\Lab report for git.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\Lab report for git\obj\Debug\net9.0\Lab report for git.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\Lab report for git\obj\Debug\net9.0\Lab report for git.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\Lab report for git\obj\Debug\net9.0\Lab report for git.dll
+C:\Users\User\OneDrive\Desktop\Lab report for git\obj\Debug\net9.0\refint\Lab report for git.dll
+C:\Users\User\OneDrive\Desktop\Lab report for git\obj\Debug\net9.0\Lab report for git.pdb
+C:\Users\User\OneDrive\Desktop\Lab report for git\obj\Debug\net9.0\Lab report for git.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\Lab report for git\obj\Debug\net9.0\ref\Lab report for git.dll
